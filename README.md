@@ -15,7 +15,7 @@
    <br />
    <br />
    <br /> 
-   <h3><strong>Linguagens e ferramentas:</strong></h3>    
+   <h3 align="center"><strong>Linguagens e ferramentas:</strong></h3>    
   <p align="center">
   <a href="https://raw.githubusercontent.com" target="_blank">
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
