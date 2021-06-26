@@ -3,22 +3,19 @@
   Oi, Eu sou o Jefferson!
 </h2>
     <br />
-    <br />
-    <br /> 
+    
     
 ---
    <h3 align="left"><strong>Um pouco sobre mim:</strong></h3>
    <img align="right" alt="GIF" src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="400px" />
    <p>:wrench:-Sou formado em <strong>Engenharia Mecânica</strong> pela UFSJ.</p>
-   <p>::books:-atualmente estou em transição de carreira.<p>
+   <p>::books:-Atualmente estou em transição de carreira.<p>
    <p>🚀-Estudando Desenvolvimento Web na Trybe. </p> 
    <p>:bulb:-Aprendendo SQL no momento. </p>
    <p>:football:-Apaixonado por esportes e Livros.</p>
    <p>:telescope:-Estou sempre em busca de conhecimento,sempre buscando a evolução.</p>
    <p>:briefcase:-Procurando por uma vaga de emprego como Dev Junior</p>
 
-   <br />
-   <br />
    <br />
    
 ---
@@ -59,7 +56,7 @@
   </a>
   </a>
 </p>
-
+<br>
 
 ---
 <h3 align="center"><strong>Contatos:</strong></h3>  
@@ -74,6 +71,7 @@
   <img src="https://cdn.icon-icons.com/icons2/70/PNG/512/outlook_14099.png" alt="E-mail"  height="50" width="48px" height="48px"/>
 </a>
 </p>
+<br>
 
 ---
   <h3 align="center"><strong>Meu Status no Git:</strong></h3>  
