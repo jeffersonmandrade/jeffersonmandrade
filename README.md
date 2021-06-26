@@ -75,4 +75,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jeffersonmandrade&show_icons=true&theme=dark" alt="Status Git" />
   <img src="https:////github-readme-stats.vercel.app/api/top-langs/?username=jeffersonmandrade&layout=dark" alt="StatusGit" /> 
 <p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonmandrade&layout=compact&show_icons=true&theme=radical)
 
