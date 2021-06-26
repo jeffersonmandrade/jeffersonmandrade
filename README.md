@@ -64,12 +64,15 @@
   <a href="mailto:andrade_jefferson@outlook.com" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/70/PNG/512/outlook_14099.png" alt="E-mail"  height="50" width="48px" height="48px"/>
 </a>
+  </a>
+  <a href="mailto:andrade_jefferson@outlook.com" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-discord-4661587_122459.png" alt="Discord"  height="50" width="48px" height="48px"/>
+</a>
+  
   </p>
   <h3 align="center"><strong>Meu Status no Git</strong></h3>  
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeffersonmandrade&show_icons=true&theme=gotham" alt="Status Git" />
-  <a href=https://github.com/jeffersonmandrade>
-  ![Most Used Languages](https://raw.githubusercontent.com/jeffersonmandrade/github-stats-transparent/output/generated/languages.svg) 
-  </a>  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonmandrade&layout=dark)](https://github.com/anuraghazra/github-readme-stats   
 <p>
 
