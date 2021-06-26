@@ -53,4 +53,11 @@
   </a>
   </a>
 </p>
+<h3 align="center"><strong>Contatos:</strong></h3>  
+<a href="https://www.linkedin.com/in/andrade-jefferson/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
+<a href="https://t.me/andrade_jefferson" target="_blank">
+  <img src= width="48px" height="48px">
+</a>
 
