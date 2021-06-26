@@ -3,11 +3,13 @@
   Oi, Eu sou o Jefferson, natural de Belo Horizonte-MG, atualmente estou em transição de carreira.
 </h4>
             
-   <p>:wrench:-Sou formado em **Engenharia Mecânica** pela UFSJ,</p>
-   <p>🚀-Estudando Desenvolvimento Web na Trybe. </p>  
+   <p>:wrench:-Sou formado em <strong>Engenharia Mecânica</strong> pela UFSJ.</p>
+   <p>🚀-Estudando Desenvolvimento Web na Trybe. </p> 
+   <p>:bulb:Aprendendo SQL no momento </p>
    <p>:football:-Apaixonado por esportes e Livros.</p>
-   <p>:bulb:-Estou sempre em busca de conhecimento,sempre buscando a evolução</p
+   <p>:telescope:-Estou sempre em busca de conhecimento,sempre buscando a evolução.</p>
    <p>:grey_question:-Colaborção é um valor.Posso ajudar?</p>
+   
    
               <h3 align="center">Linguagens e Ferramentas:</h3>
             
