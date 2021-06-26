@@ -17,7 +17,7 @@
   <a href="https://git-scm.com/doc" target="_blank">
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
   </a>
-  <a href="https://github.com/denis-rossati" target="_blank">
+  <a href="https://github.com/jeffersonmandrade" target="_blank">
    <code><img height="50" src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png"></code> 
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
