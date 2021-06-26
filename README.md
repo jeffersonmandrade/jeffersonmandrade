@@ -56,7 +56,7 @@
 <h3 align="center"><strong>Contatos:</strong></h3>  
 <p align="center">
 <a href="https://www.linkedin.com/in/andrade-jefferson/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+  <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="48px" height="48px">
 </a>
 <a href="https://t.me/andrade_jefferson" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" width="48px" height="48px">
