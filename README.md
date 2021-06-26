@@ -1,21 +1,21 @@
 
-<h3 align="center">
+<h5 align="center">
   Oi, Eu sou o Jefferson, natural de Belo Horizonte-MG, atualmente estou em transição de carreira.
-</h3>
+</h5>
     <br />
     <br />
     <br /> 
-    <h3><strong>Um pouco sobre mim:</strong></h3>
+   <h3><strong>Um pouco sobre mim:</strong></h3>
    <p>:wrench:-Sou formado em <strong>Engenharia Mecânica</strong> pela UFSJ.</p>
    <p>🚀-Estudando Desenvolvimento Web na Trybe. </p> 
-   <p>:bulb:Aprendendo SQL no momento </p>
+   <p>:bulb:Aprendendo SQL no momento. </p>
    <p>:football:-Apaixonado por esportes e Livros.</p>
    <p>:telescope:-Estou sempre em busca de conhecimento,sempre buscando a evolução.</p>
    <p>:grey_question:-Colaborção é um valor.Posso ajudar?</p>
    <br />
    <br />
    <br /> 
-   <h3 align="center"><strong>Linguagens e ferramentas:</strong></h3>    
+  <h3 align="center"><strong>Linguagens e ferramentas:</strong></h3>    
   <p align="center">
   <a href="https://raw.githubusercontent.com" target="_blank">
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
