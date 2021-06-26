@@ -19,8 +19,10 @@
   <h3 align="center"><strong>Linguagens e ferramentas:</strong></h3>   
   <p align="center">
   <a href="https://raw.githubusercontent.com" target="_blank">
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></code>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50 />
+   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></code>
+ </a>
+  <a href="https://raw.githubusercontent.com" target="_blank">
+   <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" /></code>
   </a>
   <a href="https://git-scm.com/doc" target="_blank">
    <code><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"></code>
