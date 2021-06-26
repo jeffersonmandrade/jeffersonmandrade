@@ -61,7 +61,7 @@
 <a href="https://t.me/andrade_jefferson" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" width="48px" height="48px">
 </a>
-  <a href="mailto:" target="_blank">
+  <a href="mailto:andrade_jefferson@outlook.com" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/70/PNG/512/outlook_14099.png" alt="E-mail"  height="50" width="48px" height="48px"/>
 </a>
   </p>
