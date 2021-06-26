@@ -1,7 +1,6 @@
 
 <h1 align="center">
-  <strong>Jefferson Andrade -  ![image](https://user-images.githubusercontent.com/74210909/123526766-6a3e7b80-d6b0-11eb-82a2-7d3b89888690.png)
-:chicken:</strong>
+  <strong>Jefferson Andrade - 🧠 </strong>
 </h1>
 <br />
     
