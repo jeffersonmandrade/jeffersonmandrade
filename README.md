@@ -2,10 +2,12 @@
 <h3 align="center">
   Oi, Eu sou o Jefferson, atualmente estou em transição de carreira.
 </h3>
+---
     <br />
     <br />
     <br /> 
-    ---
+    
+---
    <h3><strong>Um pouco sobre mim:</strong></h3>
    <img align="right" alt="GIF" src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="400px" />
    <p>:wrench:-Sou formado em <strong>Engenharia Mecânica</strong> pela UFSJ.</p>
@@ -15,12 +17,12 @@
    <p>:football:-Apaixonado por esportes e Livros.</p>
    <p>:telescope:-Estou sempre em busca de conhecimento,sempre buscando a evolução.</p>
    <p>:briefcase:-Procurando por uma vaga de emprego como Dev Junior</p>
-   ---
+
    <br />
    <br />
    <br />
    
-   ---
+---
   <h3 align="center"><strong>Linguagens e ferramentas:</strong></h3>   
   <p align="center">
   <a href="https://raw.githubusercontent.com" target="_blank">
@@ -59,6 +61,8 @@
   </a>
 </p>
 ---
+
+
 ---
 <h3 align="center"><strong>Contatos:</strong></h3>  
 <p align="center">
