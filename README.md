@@ -10,7 +10,7 @@
    <h3><strong>Um pouco sobre mim:</strong></h3>
    <img align="right" alt="GIF" src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="400px" />
    <p>:wrench:-Sou formado em <strong>Engenharia Mecânica</strong> pela UFSJ.</p>
-   <p>::books:-atualmente estou em transição de carreira.<p>
+   <p>::books:-Atualmente estou em transição de carreira.<p>
    <p>🚀-Estudando Desenvolvimento Web na Trybe. </p> 
    <p>:bulb:-Aprendendo SQL no momento. </p>
    <p>:football:-Apaixonado por esportes e Livros.</p>
