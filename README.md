@@ -12,7 +12,7 @@
    <p>:bulb:-Aprendendo SQL no momento. </p>
    <p>:football:-Apaixonado por esportes e Livros.</p>
    <p>:telescope:-Estou sempre em busca de conhecimento,sempre buscando a evolução.</p>
-   <p>:grey_question:-Colaborção é um valor.Posso ajudar?</p>
+   <p>:briefcase :-Procurando por uma vaga de emprego como Dev Junior</p>
    <br />
    <br />
    <br /> 
