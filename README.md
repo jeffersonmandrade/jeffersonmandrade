@@ -1,10 +1,11 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Jefferson(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+
 <h3 align="center">
   Oi, Eu sou o Jefferson, atualmente estou em transição de carreira.
 </h3>
     <br />
     <br />
     <br /> 
+    ---
    <h3><strong>Um pouco sobre mim:</strong></h3>
    <img align="right" alt="GIF" src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="400px" />
    <p>:wrench:-Sou formado em <strong>Engenharia Mecânica</strong> pela UFSJ.</p>
@@ -14,9 +15,12 @@
    <p>:football:-Apaixonado por esportes e Livros.</p>
    <p>:telescope:-Estou sempre em busca de conhecimento,sempre buscando a evolução.</p>
    <p>:briefcase:-Procurando por uma vaga de emprego como Dev Junior</p>
+   ---
    <br />
    <br />
-   <br /> 
+   <br />
+   
+   ---
   <h3 align="center"><strong>Linguagens e ferramentas:</strong></h3>   
   <p align="center">
   <a href="https://raw.githubusercontent.com" target="_blank">
@@ -54,6 +58,8 @@
   </a>
   </a>
 </p>
+---
+---
 <h3 align="center"><strong>Contatos:</strong></h3>  
 <p align="center">
 <a href="https://www.linkedin.com/in/andrade-jefferson/" target="_blank">
@@ -65,9 +71,8 @@
   <a href="mailto:andrade_jefferson@outlook.com" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/70/PNG/512/outlook_14099.png" alt="E-mail"  height="50" width="48px" height="48px"/>
 </a>
-  
-  
-  </p>
+</p>
+---
   <h3 align="center"><strong>Meu Status no Git</strong></h3>  
   <p align="center">
   
