@@ -1,14 +1,14 @@
 
-<h3>
+<h3 align="center">
   Oi, Eu sou o Jefferson, natural de Belo Horizonte-MG, atualmente estou em transição de carreira.
     Estudando desenvolvimento Web na Trybe 🚀.
 </h3>
             
-   <h4>:wrench: Sou formado em Engenharia de Mecânica pela UFSJ</h4>
-   <h4>
+   <h4 align="center">:wrench: Sou formado em Engenharia de Mecânica pela UFSJ</h4>
    
-                <h2>Linguagens e Ferramentas.</h2>
-    <p align="center">
+   
+            
+  <p align="center">
   <a href="https://git-scm.com/doc" target="_blank">
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
   </a>
