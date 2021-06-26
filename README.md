@@ -45,9 +45,7 @@
   <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">
    <code><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="50" height="50"></code> 
   </a>
-  <a href="https://redux.js.org/" target="_blank">
-   <code><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"></code> 
-  </a>
+  <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">    <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png%22%3E"</code>    </a>
   <a href="https://jestjs.io/docs/getting-started" target="_blank">
    <code><img  src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png" width="50" height="50"></code>
   </a>
