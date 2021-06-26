@@ -69,6 +69,9 @@
   <a href="mailto:andrade_jefferson@outlook.com" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/70/PNG/512/outlook_14099.png" alt="E-mail"  height="50" width="48px" height="48px"/>
 </a>
+<a href="https://twitter.com/Jffrsncrls" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579542-yumminkysocialmedia22_83078.png" width="48px" height="48px">
+</a>
 </p>
 <br>
 
