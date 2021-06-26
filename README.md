@@ -65,4 +65,6 @@
   <img src="https://cdn.icon-icons.com/icons2/70/PNG/512/outlook_14099.png" alt="E-mail"  height="50" width="48px" height="48px"/>
 </a>
   </p>
+  
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeffersonmandrade&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
