@@ -7,7 +7,8 @@
    
     
 ---
-   <h3><strong>Um pouco sobre mim:</strong></h3>
+   <h3align="right"><strong>Um pouco sobre mim:</strong></h3
+  
    <img align="right" alt="GIF" src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="400px" />
    <p>:wrench:-Sou formado em <strong>Engenharia Mecânica</strong> pela UFSJ.</p>
    <p>::books:-Atualmente estou em transição de carreira.<p>
