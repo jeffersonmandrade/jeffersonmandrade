@@ -72,9 +72,12 @@
   </p>
   <h3 align="center"><strong>Meu Status no Git</strong></h3>  
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffersonmandrade&show_icons=true&theme=dark" alt="Status Git" />
-  <img src="https:////github-readme-stats.vercel.app/api/top-langs/?username=jeffersonmandrade&layout=dark" alt="StatusGit" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffersonmandrade&show_icons=true&theme=dark" alt="Status Git" /> 
 <p>
-  ---
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonmandrade&layout=compact&show_icons=true&theme=radical)
-  ---
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosincero&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosincero&layout=compact&show_icons=true&theme=radical)
+
+---
