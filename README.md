@@ -2,7 +2,7 @@
 <h3 align="center">
   Oi, Eu sou o Jefferson, atualmente estou em transição de carreira.
 </h3>
----
+
     <br />
     <br />
     <br /> 
@@ -60,7 +60,6 @@
   </a>
   </a>
 </p>
----
 
 
 ---
@@ -76,11 +75,12 @@
   <img src="https://cdn.icon-icons.com/icons2/70/PNG/512/outlook_14099.png" alt="E-mail"  height="50" width="48px" height="48px"/>
 </a>
 </p>
+
 ---
-  <h3 align="center"><strong>Meu Status no Git</strong></h3>  
+  <h3 align="center"><strong>Meu Status no Git:</strong></h3>  
   <p align="center">
   
----
+
 
 ![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffersonmandrade&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonmandrade&layout=compact&show_icons=true&theme=dark)
