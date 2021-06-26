@@ -68,6 +68,6 @@
   <h3 align="center"><strong>Meu Status no Git</strong></h3>  
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeffersonmandrade&show_icons=true&theme=gotham" alt="Status Git" />
-  ![Most Used Languages](https://raw.githubusercontent.com/jeffersonmandrade/github-stats-transparent/output/generated/languages.svg)  
+  <img src="https://raw.githubusercontent.com/jeffersonmandrade/github-stats-transparent/output/generated/languages.svg" alt="status Git"/>  
 <p>
 
