@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <strong>Jefferson Andrade - 🧠 </strong>
+  <strong>Jefferson Andrade - 😃 </strong>
 </h1>
 <br />
     
