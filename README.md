@@ -35,7 +35,7 @@
    <code><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"></code> 
   </a>
   <a href="https://devdocs.io/javascript/" target="_blank">
-   <code><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+   <code><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"></code>
   </a>
   <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank">
    <code><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50" height="50"></code> 
