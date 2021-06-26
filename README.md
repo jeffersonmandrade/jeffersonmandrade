@@ -72,12 +72,12 @@
   </p>
   <h3 align="center"><strong>Meu Status no Git</strong></h3>  
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffersonmandrade&show_icons=true&theme=dark" alt="Status Git" /> 
-<p>
-
----
+  ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffersonmandrade&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonmandrade&layout=compact&show_icons=true&theme=dark)
 
 ---
+<p>
+
+
