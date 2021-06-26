@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <strong>Jefferson Andrade - 😃 </strong>
+  <strong><img src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="20"/> - Jefferson Andrade. </strong>
 </h1>
 <br />
     
@@ -13,7 +13,7 @@
    <p>:bulb:-Aprendendo SQL no momento. </p>
    <p>:football:-Apaixonado por esportes e Livros.</p>
    <p>:telescope:-Estou sempre em busca de conhecimento,sempre buscando a evolução.</p>
-   <p>:briefcase:-Procurando por uma vaga de emprego como Dev Junior</p>
+   <p>:briefcase:-Procurando por uma vaga de emprego como Dev Junior.</p>
 
    <br />
    
