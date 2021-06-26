@@ -1,8 +1,10 @@
 
-<h4 align="center">
+<h3 align="center">
   Oi, Eu sou o Jefferson, natural de Belo Horizonte-MG, atualmente estou em transição de carreira.
-</h4>
-            
+</h3>
+    <br />
+    <br />
+    <br />      
    <p>:wrench:-Sou formado em <strong>Engenharia Mecânica</strong> pela UFSJ.</p>
    <p>🚀-Estudando Desenvolvimento Web na Trybe. </p> 
    <p>:bulb:Aprendendo SQL no momento </p>
@@ -10,9 +12,12 @@
    <p>:telescope:-Estou sempre em busca de conhecimento,sempre buscando a evolução.</p>
    <p>:grey_question:-Colaborção é um valor.Posso ajudar?</p>
    
-   
-              <h3 align="center">Linguagens e Ferramentas:</h3>
-            
+   <br />
+   <br />
+   <br /> 
+   **Linguagens e ferramentas:**    
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <p align="center">
   <a href="https://git-scm.com/doc" target="_blank">
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
