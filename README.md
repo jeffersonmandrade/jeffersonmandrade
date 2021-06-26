@@ -19,8 +19,8 @@
   <h3 align="center"><strong>Linguagens e ferramentas:</strong></h3>   
   <p align="center">
   <a href="https://raw.githubusercontent.com" target="_blank">
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></code>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50 />
   </a>
   <a href="https://git-scm.com/doc" target="_blank">
    <code><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"></code>
@@ -44,7 +44,7 @@
    <code><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="50" height="50"></code> 
   </a>
   <a href="https://redux.js.org/" target="_blank">
-   <code><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" height="50"></code> 
+   <code><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="50"></code> 
   </a>
   <a href="https://jestjs.io/docs/getting-started" target="_blank">
    <code><img  src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png" width="50" height="50"></code>
