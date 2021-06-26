@@ -1,8 +1,7 @@
 
-<h3 align="center">
-  Oi, Eu sou o Jefferson, atualmente estou em transição de carreira.
-</h3>
-
+<h2 align="center">
+  Oi, Eu sou o Jefferson!
+</h2>
     <br />
     <br />
     <br /> 
