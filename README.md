@@ -1,7 +1,7 @@
 
-<h2 align="center">
-  Oi, Eu sou o Jefferson!
-</h2>
+<h3 align="center">
+  Olá, Eu sou o Jefferson!
+</h3>
     <br />
 
    
@@ -73,6 +73,7 @@
 </a>
 </p>
  <br />
+ 
 ---
   <h3 align="center"><strong>Meu Status no Git:</strong></h3>  
   <p align="center">
